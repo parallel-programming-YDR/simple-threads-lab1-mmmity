@@ -16,5 +16,5 @@ set(CMAKE_COMPILER_WARNING_AS_ERROR ON)
 
 add_executable(${PROJECT_NAME}
     src/main.cpp
-    src/Hello.cpp
+    src/MonteCarloCounter.cpp
 )
